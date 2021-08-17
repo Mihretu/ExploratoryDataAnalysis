@@ -1,0 +1,17 @@
+---
+title: "Readme File For Data Exploratory and Annalysis Week 1 Assignment "
+author: "Alemu Tadesse"
+date: "8/17/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Actions to take place before running the scripts for this project
+
+Please change the path to the location of the downloaded files before running the scripts for plotting.
+
+Please set the working directory (setwd) to a location where you want to save the output files and where the R script is saved.
+
